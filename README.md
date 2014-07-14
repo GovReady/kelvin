@@ -35,4 +35,6 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [NIST Checklist Program](http://checklists.nist.gov) - Official NIST program to promote hardened configuration checklists for software
 
+[FISMA-Ready Ubuntu](https://github.com/fisma-ready/ubuntu-lts) - A hardened baseline guide for Ubuntu LTS versions published by GSA's 18F
+
 [Gauntlt](http://gauntlt.org) - "Gauntlt provides hooks to a variety of security tools and puts them within reach of security, dev and ops teams to collaborate to build rugged software. It is built to facilitate testing and communication between groups and create actionable tests that can be hooked into your deploy and testing processes."
