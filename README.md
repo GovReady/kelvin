@@ -18,18 +18,23 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 `vm/basic/vbkick-templates` provides vbkick virtual machine configuration files for building VirtualBox VM's from source ISO and kick start files.
 
-# Related Readings, Projects
+# Related Readings
+[Building a Modern Security Engineering Organization](http://www.slideshare.net/zanelackey/building-a-modern-security-engineering-organization) - Excellent Slideshare by former head of security for Etsy; key lesson is sharing information with everyone and use penetration risks to identify risk patterns not if app is secure.
+
 [DevOpsAudit](http://bit.ly/DevOpsAudit) - Crowd source effort to assemble "authoritative guidance of how management and auditors should conduct audits where DevOps practices are in place"
 
 [Automate Compliance with BDD Tools](http://www.conjur.net/blog/2014/06/30/automate-compliance-with-bdd-tools.html) - A blog post musing on incorporating a security control test from policy into a cucumber test
 
-[GovReady](https://github.com/GovReady/govready) - Toolkit for getting open source apps ready for secure, approved government use (Friendly wrapper around OpenScap)
-
-[EasySCAP](https://github.com/GovReady/easyscap) - A simple (but equivalent) format for writing SCAP tests by GovReady. Also [EasySCAP Output Demo](https://github.com/GovReady/easyscap-output-demo) for YAML version of SCAP of SCAP-Security-Guide
-
+# Related Projects
 [OpenSCAP](https://github.com/GovReady/easyscap-output-demo) - Open Source NIST Certified SCAP 1.2 toolkit (on GitHub at https://github.com/OpenSCAP/openscap)
 
 [SSG SCAP Security Guide](https://fedorahosted.org/scap-security-guide/) - security guidance, baselines, and associated validation mechanism; currently supporting SCAP for RHEL6, JBOSS
+
+[GovReady](https://github.com/GovReady/govready) - Toolkit for getting open source apps ready for secure, approved government use (Friendly wrapper around OpenScap)
+
+[FISMA-Ready Ubuntu](https://github.com/fisma-ready/ubuntu-lts) - A hardened baseline guide for Ubuntu LTS versions published by GSA's 18F
+
+[EasySCAP](https://github.com/GovReady/easyscap) - A simple (but equivalent) format for writing SCAP tests by GovReady. Also [EasySCAP Output Demo](https://github.com/GovReady/easyscap-output-demo) for YAML version of SCAP of SCAP-Security-Guide
 
 [Aqueduct](https://fedorahosted.org/aqueduct/) - Attempt to gather together automated changes to RHEL to meet government and Defense Department security compliance; uses bash and puppet.
 
@@ -37,8 +42,4 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [Seccubus](http://www.seccubus.com) - "Seccubus runs vulnerability scans at regular intervals and compares the findings of the last scan with the findings of the previous scan. The delta of this scan is presented in a web GUI when findings can be easily marked as either real findings or non-issues. Non issues get ignored until they change. This causes a dramatically reduction a analysis time."
 
-[FISMA-Ready Ubuntu](https://github.com/fisma-ready/ubuntu-lts) - A hardened baseline guide for Ubuntu LTS versions published by GSA's 18F
-
 [Gauntlt](http://gauntlt.org) - "Gauntlt provides hooks to a variety of security tools and puts them within reach of security, dev and ops teams to collaborate to build rugged software. It is built to facilitate testing and communication between groups and create actionable tests that can be hooked into your deploy and testing processes."
-
-[Building a Modern Security Engineering Organization](http://www.slideshare.net/zanelackey/building-a-modern-security-engineering-organization) - Excellent Slideshare by former head of security for Etsy; key lesson is sharing information with everyone and use penetration risks to identify risk patterns not if app is secure.
