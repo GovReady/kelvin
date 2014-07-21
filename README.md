@@ -41,4 +41,4 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [Gauntlt](http://gauntlt.org) - "Gauntlt provides hooks to a variety of security tools and puts them within reach of security, dev and ops teams to collaborate to build rugged software. It is built to facilitate testing and communication between groups and create actionable tests that can be hooked into your deploy and testing processes."
 
-[Building a Modern Security Engineering Organization](http://www.slideshare.net/zanelackey/building-a-modern-security-engineering-organization) - Slideshare by former head of security for Etsy; key lesson is sharing information with everyone and use penetration risks to identify risk patterns not if app is secure.
+[Building a Modern Security Engineering Organization](http://www.slideshare.net/zanelackey/building-a-modern-security-engineering-organization) - Excellent Slideshare by former head of security for Etsy; key lesson is sharing information with everyone and use penetration risks to identify risk patterns not if app is secure.
