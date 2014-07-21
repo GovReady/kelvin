@@ -25,6 +25,11 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [Automate Compliance with BDD Tools](http://www.conjur.net/blog/2014/06/30/automate-compliance-with-bdd-tools.html) - A blog post musing on incorporating a security control test from policy into a cucumber test
 
+[Chapter 2 of NIST Special Publication 800-37, Guide for Applying the Risk Management Framework to Federal Information Systems](http://www.nist.gov/customcf/get_pdf.cfm?pub_id=904985) - The official federal fundamentals of managing information security risks and introduction to FISMA's Risk Management Framework (RMF) as whole organization funtion (Chapter 2 starts on page 5)
+
+[Appendix F of  NIST Special Publication 800-53, Security and Privacy Controls for Federal Information Systems and Organizations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) - The master catalog of common information systems control (aka, the 800-53's) from which an appropriate subset can be selected and applied to certify a system under the Federal FISMA Risk Management Framework (Appendix F starts on page F-1)
+
+
 # Related Projects
 [OpenSCAP](https://github.com/GovReady/easyscap-output-demo) - Open Source NIST Certified SCAP 1.2 toolkit (on GitHub at https://github.com/OpenSCAP/openscap)
 
