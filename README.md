@@ -35,6 +35,8 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [NIST Checklist Program](http://checklists.nist.gov) - Official NIST program to promote hardened configuration checklists for software
 
+[Seccubus](http://www.seccubus.com) - "Seccubus runs vulnerability scans at regular intervals and compares the findings of the last scan with the findings of the previous scan. The delta of this scan is presented in a web GUI when findings can be easily marked as either real findings or non-issues. Non issues get ignored until they change. This causes a dramatically reduction a analysis time."
+
 [FISMA-Ready Ubuntu](https://github.com/fisma-ready/ubuntu-lts) - A hardened baseline guide for Ubuntu LTS versions published by GSA's 18F
 
 [Gauntlt](http://gauntlt.org) - "Gauntlt provides hooks to a variety of security tools and puts them within reach of security, dev and ops teams to collaborate to build rugged software. It is built to facilitate testing and communication between groups and create actionable tests that can be hooked into your deploy and testing processes."
