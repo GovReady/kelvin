@@ -29,7 +29,7 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [Appendix F of  NIST Special Publication 800-53, Security and Privacy Controls for Federal Information Systems and Organizations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf) - The master catalog of common information systems control (aka, the 800-53's) from which an appropriate subset can be selected and applied to certify a system under the Federal FISMA Risk Management Framework (Appendix F starts on page F-1)
 
-[OpenSCAP's security scan report redesign](http://martin.preisler.me/2014/07/openscap-html-report-redesign/] - Blog post describing ideas for improved scan report.
+[OpenSCAP's security scan report redesign](http://martin.preisler.me/2014/07/openscap-html-report-redesign/) - Blog post describing ideas for improved scan report.
 
 
 # Related Projects
