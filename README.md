@@ -31,6 +31,8 @@ The `vm` directory includes virtual machines for learning and testing GovReady.
 
 [OpenSCAP's security scan report redesign](http://martin.preisler.me/2014/07/openscap-html-report-redesign/) - Blog post describing ideas for improved scan report.
 
+[OpenSCAP Collateral and References](https://github.com/OpenSCAP/scap-security-guide/wiki/Collateral-and-References) - Public listing of presentations, whitepapers, and other collateral relating to SSG. Feel free to add links to your presentations!
+
 
 # Related Projects
 [OpenSCAP](https://github.com/GovReady/easyscap-output-demo) - Open Source NIST Certified SCAP 1.2 toolkit (on GitHub at https://github.com/OpenSCAP/openscap)
